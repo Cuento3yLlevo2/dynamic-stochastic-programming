@@ -1,6 +1,7 @@
 
 <div align="center">
-  <h1>Apuntes Basados en el Curso de Programación Dinámica y Estocástica con Python de Platzi</h1>
+  <h1>Programación Dinámica y Estocástica</h1>
+  <p>Apuntes Basados en el Curso de Programación Dinámica y Estocástica con Python de Platzi</p>
 </div>
 
 <div align="center"> 
