@@ -24,7 +24,9 @@ Es uno de los conceptos más difíciles de entender dentro del mundo de las cien
 
 <div align="center"> 
   <img src="readme_img/r_bellman.png" width="250">
+  <p>Dr. Richard Bellman</p>
 </div>
+
 
 El Dr. Bellman quería elegir un término que no sonara a investigación matemática. El Secretario de Defensa fue parcial contra la investigación. Tampoco quería un término que pudiera usarse en un sentido peyorativo (despectivo).
 
