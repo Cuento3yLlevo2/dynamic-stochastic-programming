@@ -10,7 +10,7 @@
 
 # Tabla de contenido
 - [Objetivos](#Objetivos)
-- [Introducción a la Programación Dinámica](#introduccion-a-la-programacion-dinamica)
+- [Introducción a la Programación Dinámica](#introducción-a-la-programación-dinámica)
   - [Memoization](#Memoization)
 
 
