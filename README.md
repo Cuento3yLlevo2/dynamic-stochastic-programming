@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>Programación Dinámica y Estocástica</h1>
-  <p>Apuntes Basados en el [Curso de Programación Dinámica y Estocástica con Python](https://platzi.com/clases/programacion-estocastica/) de Platzi</p>
+  <p>Apuntes Basados en el <a href="https://platzi.com/clases/programacion-estocastica/">Curso de Programación Dinámica y Estocástica con Python</a> de Platzi</p>
 </div>
 
 <div align="center"> 
