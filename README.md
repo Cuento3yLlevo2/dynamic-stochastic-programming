@@ -60,8 +60,9 @@ Para que la programación dinámica pueda realmente optimizar nuestro problema t
 </div>
 Los números de Fibonacci tienen propiedades computacionales muy interesantes que nos permiten entender conceptos de alto nivel. La definición recursiva _fn = fn-1 + fn-2_ es muy fácil de implementar en código pero es muy ineficiente porque crece de forma exponencial.
 
-<div align="center"> 
-  <img src="readme_img/fibonaccirecursivo.png" width="500">
+<div align="center">
+  </br>
+  <img src="readme_img/fibonaccirecursivo.png" width="600">
   <p>Se repiten operaciones de forma ineficiente </p>
 </div>
 
