@@ -52,6 +52,20 @@ Para que la programación dinámica pueda realmente optimizar nuestro problema t
 - Normalmente se utiliza un diccionario, donde las consultas se pueden hacer en O(1) _de forma lineal_.
 - Intercambia tiempo por espacio. 
 
+## Números de Fibonacci
+
+<div align="center"> 
+  <img src="readme_img/fibonacci.png" width="250">
+  </br>
+</div>
+Los números de Fibonacci tienen propiedades computacionales muy interesantes que nos permiten entender conceptos de alto nivel. La definición recursiva _fn = fn-1 + fn-2_ es muy fácil de implementar en código pero es muy ineficiente porque crece de forma exponencial.
+
+<div align="center"> 
+  <img src="readme_img/fibonaccirecursivo.png" width="500">
+  <p>Se repiten operaciones de forma ineficiente </p>
+</div>
+
+
 
 
 
