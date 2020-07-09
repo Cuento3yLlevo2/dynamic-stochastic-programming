@@ -66,6 +66,36 @@ Los números de Fibonacci tienen propiedades computacionales muy interesantes qu
   <p>Se repiten operaciones de forma ineficiente </p>
 </div>
 
+Si optimizamos el método recursivo de Fibonacci implementando la técnica de Memoization a nuestro código podemos obtener mejoras sorprendentes.
+
+### Implementación del cálculo de números Fibonacci de forma recursiva sin optimizar.
+```
+def fibonacci_recursivo(n):
+    if n == 0 or n == 1: 
+        return 1 
+    
+    return fibonacci_recursivo(n - 1) + fibonacci_recursivo(n - 2)
+    
+```
+Esta implementación solo nos sirve para números pequeños 
+
+### Implementación del cálculo de números Fibonacci optimizado con Memoization.
+```
+def fibonacci_dinamico(n, memo = {}):
+    if n == 0 or n == 1: 
+        return 1 
+    
+    try:
+        return memo[n]
+    except KeyError:
+        resultado = fibonacci_dinamico(n - 1, memo) + fibonacci_dinamico(n - 2, memo)
+        memo[n] = resultado
+
+        return resultado
+```
+Como podemos ver, añadiendo un diccionario al método donde se van almacenando los resultados que cada número requerido para el cálculo logramos crear un código más eficiente intercambiando computo por memoria. Esto es solo efectivo en problemas empalmados.
+
+
 
 
 
