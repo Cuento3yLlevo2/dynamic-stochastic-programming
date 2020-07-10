@@ -95,6 +95,36 @@ def fibonacci_dinamico(n, memo = {}):
 ```
 Como podemos ver, añadiendo un diccionario al método donde se van almacenando los resultados que cada número requerido para el cálculo logramos crear un código más eficiente intercambiando computo por memoria. Esto es solo efectivo en problemas empalmados.
 
+# Caminos Aleatorios 
+
+Es una nueva forma de aproximarnos al cómputo. Hasta ahora todos los programas que hemos estudiado han sido deterministas, es decir, que al mismo input obtenemos el mismo output. Sin embargo, esta técnica aunque es muy poderosa tiene sus limitaciones cuando tratamos de resolver ciertos tipos de problemas. Hay problemas que por su propia naturaleza incluyen aleatoriedad.
+
+- Los caminos aleatorios son un tipo de simulación que elige aleatoriamente una decisión dentro de un conjunto de decisiones válidas.
+
+- Se utiliza en muchos campos del conocimiento cuando los sistemas no son deterministas e incluyen elementos de aleatoriedad. 
+
+Los caminos aleatorios es un tipo de programación probabilística que nos permite que cada vez que tengamos un input probablemente el output sea diferente. Cada vez que ejecutemos el programa el resultado va a ser distinto.
+
+Estas técnicas se utilizan en muchísimos campos del conocimiento. 
+
+### El movimiento browniano
+
+<div align="center"> 
+  <img src="readme_img/movimiento_browniano.png" width="250">
+  <p>Moléculas en movimiento aleatorio</p>
+</div>
+
+Cuando se empezaron a desarrollar los microscopios en el siglo XIX se comenzaron a ver fenómenos muy extraños que no se podían explicar. El movimiento browniano era un movimiento aleatorio que no se podía explicar en el conocimiento del siglo XIX, de hecho, es Albert Einstein el que logro explicar este fenómeno en 1905 ganando un Premio Novel. 
+
+
+
+
+
+
+
+
+
+
 
 
 
