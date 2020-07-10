@@ -124,6 +124,14 @@ Vamos a implementar un programa muy sencillo para generar un camino aleatorio en
   <img src="readme_img/camino_borracho.png" width="250">
 </div>
 
+Y cuando se genere el resultado vamos a calcular la distancia gracias al teorema de Pitágoras
+
+<div align="center"> 
+  <img src="readme_img/pitagoras.png" width="250">
+</div>
+
+
+
 
 
 
