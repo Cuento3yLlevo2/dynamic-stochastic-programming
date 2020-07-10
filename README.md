@@ -114,7 +114,22 @@ Estas técnicas se utilizan en muchísimos campos del conocimiento.
   <p>Moléculas en movimiento aleatorio</p>
 </div>
 
-Cuando se empezaron a desarrollar los microscopios en el siglo XIX se comenzaron a ver fenómenos muy extraños que no se podían explicar. El movimiento browniano era un movimiento aleatorio que no se podía explicar en el conocimiento del siglo XIX, de hecho, es Albert Einstein el que logro explicar este fenómeno en 1905 ganando un Premio Novel. 
+Cuando se empezaron a desarrollar los microscopios en el siglo XIX se comenzaron a ver fenómenos muy extraños que no se podían explicar. El movimiento browniano era un movimiento aleatorio que no se podía explicar en el conocimiento del siglo XIX, de hecho, es Albert Einstein el que logro explicar este fenómeno en 1905 ganando un Premio Novel.
+
+## Camino de Borrachos
+
+Vamos a implementar un programa muy sencillo para generar un camino aleatorio en el que vamos a suponer que un borracho tiene una probabilidad dada para moverse en un plano 2D hacia arriba, abajo, izquierda o derecha. 
+
+<div align="center"> 
+  <img src="readme_img/camino_borracho.png" width="250">
+</div>
+
+
+
+
+
+
+
 
 
 
